@@ -87,7 +87,7 @@ Currently improving my skills in both frontend and backend development while bui
 
 - **LinkedIn:** [john-francis-vecina](https://www.linkedin.com/in/john-francis-vecina-a76aa63b9/)
 - **Portfolio:** [Visit my website](https://vcntech-123.github.io/Personal-Web-Portfolio/)
-- **Email:** [johnvecina640@gmail.com](mailto:johnvecina640@gmail.com)m  
+- **Email:** [johnvecina640@gmail.com](mailto:johnvecina640@gmail.com)
 
 ---
 
