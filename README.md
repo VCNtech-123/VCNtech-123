@@ -32,7 +32,7 @@ I enjoy building **clean UI systems, responsive layouts, and real-world full-sta
 
 Currently improving my skills in both frontend and backend development while building production-style projects.
 
-- 🔭 Currently building: Event Management Platform + Portfolio v2  
+- 🔭 Currently building: WorkPilot: Freelancing App + Portfolio v2  
 - 📚 Learning: React, TypeScript, Node.js, MongoDB  
 - 🎯 Goal: Become a strong MERN stack developer  
 - 💬 Ask me about: React, UI design, JavaScript logic  
