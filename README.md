@@ -26,13 +26,29 @@
 
 ### 👨‍💻 About Me
 
-I'm an IT student and **Full Stack Developer** focused on building modern, production-style web applications end to end with the **MERN + TypeScript** stack — from responsive UI to backend APIs and database design.
+I'm an IT student and Full Stack Developer focused on building production style web applications end to end with the MERN and TypeScript stack, from responsive UI to backend APIs, database design, and deployment.
 
-- 🔭 **Currently building:** WorkPilot (Freelancing App) + Portfolio v2
-- 📚 **Currently learning:** Advanced React patterns, Node.js, MongoDB
-- 🎯 **Goal:** Become a strong, well-rounded Full Stack (MERN + TypeScript) Developer
-- 💬 **Ask me about:** React, Node.js/Express APIs, UI/UX design, JavaScript & TypeScript logic
-- ⚡ **Fun fact:** I care way too much about clean, consistent UI and clean, consistent code
+- 🔭 **Currently building:** Plinth, a multi tenant SaaS app for managing clients, projects, and tasks across team workspaces, with role based access control, Redis caching, Docker, and a CI pipeline.
+- 📚 **Currently learning:** Testing with Jest and Supertest, caching strategies, and containerized deployment workflows.
+- 🎯 **Goal:** Become a strong, well rounded Full Stack (MERN + TypeScript) Developer.
+- 💬 **Ask me about:** React, Node.js/Express APIs, multi tenant architecture and access control, JavaScript and TypeScript logic.
+- ⚡ **Fun fact:** I care way too much about clean, consistent UI and clean, consistent code.
+
+---
+
+### 🚀 Featured Project
+
+**Plinth**, a multi tenant SaaS platform for managing clients, projects, and tasks across team workspaces, with role based access control and a metrics dashboard.
+
+- Workspace based tenancy with roles (owner, admin, member, viewer), member invites, and workspace switching
+- Zod validation on every API route, JWT auth via httpOnly cookies, and a Jest and Supertest integration suite covering tenant isolation and soft delete behavior
+- A dashboard backed by MongoDB aggregation pipelines and cached in Redis
+- Dockerized frontend and backend with a docker compose setup, and a GitHub Actions pipeline that builds and tests both apps on every push
+
+`React 19` `TypeScript` `Node.js` `Express 5` `MongoDB` `Redis` `Zod` `Jest` `Docker`
+
+<!-- Add your repo link here once it's public, for example: -->
+<!-- [View Repository](https://github.com/your-username/plinth) -->
 
 ---
 
@@ -57,6 +73,15 @@ I'm an IT student and **Full Stack Developer** focused on building modern, produ
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+**Testing & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
