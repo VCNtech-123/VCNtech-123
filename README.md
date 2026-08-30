@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/john-francis-vecina-a76aa63b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://johnvecina.vercel.app/" target="_blank">
+  <a href="https://jvecina-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:johnvecina640@gmail.com">
@@ -106,14 +106,10 @@ I'm an IT student and Full Stack Developer focused on building production style 
   <a href="https://www.linkedin.com/in/john-francis-vecina-a76aa63b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://johnvecina.vercel.app/" target="_blank">
+  <a href="https://jvecina-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:johnvecina640@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<div align="center">
-<i>Always learning, always building. 🚀</i>
-</div>
